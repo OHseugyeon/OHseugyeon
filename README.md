@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/OHseugyeon/OHseugyeon/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://www.canva.com/design/DAGJMmM1Se8/DvDde0-o40rPyS5BVui5oA/edit?utm_content=DAGJMmM1Se8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
 </div>
 
 <!--내용 부분-->
