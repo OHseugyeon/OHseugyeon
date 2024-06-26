@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--타이틀 부분-->
-<div align="center">
-  <img src="https://www.canva.com/design/DAGJMmM1Se8/DvDde0-o40rPyS5BVui5oA/edit?utm_content=DAGJMmM1Se8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
-</div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
