@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 <!--타이틀 부분-->
 
-
+<div align="center">
+  <img src="https://www.canva.com/design/DAGJMmM1Se8/DvDde0-o40rPyS5BVui5oA/edit?utm_content=DAGJMmM1Se8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+</div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -80,3 +82,4 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/osyddwu079821@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OHseugyeon&show_icons=true&theme=radical)
