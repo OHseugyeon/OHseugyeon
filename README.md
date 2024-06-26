@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Seungyeon%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=10&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Seungyeon%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=40&height=250)
 ---
   
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOHseugyeon&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/OHseugyeon)
