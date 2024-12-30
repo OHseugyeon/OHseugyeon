@@ -30,12 +30,13 @@
 - 🦁 멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 11th FE 아기사자
 - 🦁 멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 12th FE 운영진
 - 🏦 하나금융 디지털 파워온 프로젝트 3기
-- 🤖 LG CNS AI Genius 12기
+- 💼 창업동아리 _ Serengeti Frontend DEV.
   
 
 ## Awards
 
 - 🥇 SK텔레콤 x 하나금융그룹 공동 주최 TECH4GOOD 해커톤 - **우수상**
+- 🥇 동덕여자대학교  「2024 창업아이디어 공모전 - **대상**
 
 
 <div align="center">
