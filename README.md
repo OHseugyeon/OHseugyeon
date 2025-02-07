@@ -41,6 +41,6 @@
 
 <div align="center">
  <br/>
- 
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOHseugyeon&count_bg=%23A9D08B&title_bg=%23C286E8&icon=react.svg&icon_color=%231061D7&title=hits&edge_flat=false"/></a>
 
 </div>
